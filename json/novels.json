@@ -1,5 +1,5 @@
 [
-    { "title": "उपन्यास एक", "author": "लेखक एक", "image": "https://via.placeholder.com/200x300", "pdf": "#" },
+    { "title": "Godaan", "author": "Munshi Premchand", "image": "https://rukminim1.flixcart.com/image/832/832/book/7/9/6/godan-original-imadxzahzjqgxbfq.jpeg?q=70", "pdf": "../pdfs/novels/godan.pdf" },
     { "title": "उपन्यास दो", "author": "लेखक दो", "image": "https://via.placeholder.com/200x300", "pdf": "#" },
     { "title": "उपन्यास तीन", "author": "लेखक तीन", "image": "https://via.placeholder.com/200x300", "pdf": "#" },
     { "title": "उपन्यास चार", "author": "लेखक चार", "image": "https://via.placeholder.com/200x300", "pdf": "#" }
