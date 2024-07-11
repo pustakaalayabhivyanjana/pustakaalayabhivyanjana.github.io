@@ -1,5 +1,5 @@
 [
-    { "title": "किताब एक", "author": "लेखक एक", "image": "https://via.placeholder.com/200x300", "pdf": "#" },
+    { "title": "Global Politics", "author": "Andrew Heywood", "image": "https://image.slidesharecdn.com/andrew-heywood-global-politicskopio-230521083928-f14f8950/85/Andrew-Heywood-Global-Politics-kopio-pdf-1-320.jpg", "pdf": "../pdfs/books/Global_politics.pdf" },
     { "title": "किताब दो", "author": "लेखक दो", "image": "https://via.placeholder.com/200x300", "pdf": "#" },
     { "title": "किताब दो", "author": "लेखक दो", "image": "https://via.placeholder.com/200x300", "pdf": "#" },
     { "title": "किताब दो", "author": "लेखक दो", "image": "https://via.placeholder.com/200x300", "pdf": "#" },
