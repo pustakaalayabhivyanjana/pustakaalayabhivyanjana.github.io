@@ -19,7 +19,7 @@
     nav .hamburger {
         display: flex;
         position: absolute;
-        top: 20px; /* Adjusted for better positioning */
+        /*top: 20px;  Adjusted for better positioning */
         right: 20px; /* Adjusted for better positioning */
     }
 
