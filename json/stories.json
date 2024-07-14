@@ -1,5 +1,5 @@
 [
-    { "title": "कहानी एक", "author": "लेखक एक", "image": "https://via.placeholder.com/200x300", "pdf": "#" },
+    { "title": "बादलों के घेरे", "author": "कृष्णा सोबती", "image": "https://m.media-amazon.com/images/I/81uUQIb0rUL._AC_UF1000,1000_QL80_.jpg", "pdf": "../pdfs/stories/badal.pdf" },
     { "title": "कहानी दो", "author": "लेखक दो", "image": "https://via.placeholder.com/200x300", "pdf": "#" },
     { "title": "कहानी तीन", "author": "लेखक तीन", "image": "https://via.placeholder.com/200x300", "pdf": "#" },
     { "title": "कहानी चार", "author": "लेखक चार", "image": "https://via.placeholder.com/200x300", "pdf": "#" }
